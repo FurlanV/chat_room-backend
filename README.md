@@ -14,9 +14,3 @@ The API has the following endpoints:
 - [POST] /newMessage (receives a message from user)
 - [GET] /users/:userId (get user information)
 - [GET] /messages (get list with all messages)
-
-
-## About the frontend
-
-- The frontend is made using React with redux to persist data in the user browser.
-- The UI is made by me with SemanticUI framework and some css. 
