@@ -1,7 +1,6 @@
 # ChatRoom
 
-Simple chat room implementation with Node.js+Express on the backend and React/Redux+SemanticUI in the frontend.
-The applicaton backend uses MongoDB to persist data.
+Simple chat room implementation with Node.js+Express and Mongoose
 
 ## About the backend
 
