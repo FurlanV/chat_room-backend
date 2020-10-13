@@ -4,7 +4,7 @@ Simple chat room implementation with Node.js+Express and Mongoose
 
 ## About the backend
 
-The backend is an secure REST API that uses Json Web Tokens to generate access tokens.
+This application is an example of secure REST API that uses Json Web Tokens to generate access tokens.
 
 The API has the following endpoints:
  
