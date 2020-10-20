@@ -3,6 +3,7 @@ const config = require('./common/config/env.config');
 const express = require("express");
 const app = express();
 const bodyParser = require('body-parser');
+const mongoose = require('./common/services/mongoose.service');
 
 const AuthorizationRouter = require('./authorization/routes.config');
 const UsersRouter = require("./users/routes.config");
